@@ -1,6 +1,6 @@
 # Neural Network from Scratch (NumPy)
 
-A 2-layer neural network built entirely from scratch in NumPy — no ML frameworks, no autodiff. Every forward pass, gradient, and parameter update is implemented manually, with the backpropagation formulas derived by hand using the chain rule.(Note: Used cluade to write this report , but the whole code and the maths was  done by me ,  except the visualization)
+A 2-layer neural network built entirely from scratch in NumPy — no ML frameworks, no autodiff. Every forward pass, gradient, and parameter update is implemented manually, with the backpropagation formulas derived by hand using the chain rule.(Note: Used cluade to write this report , but the whole code and the maths was  done by me ,  except the visualization , took from youtube)
 
 ## Dataset
 
